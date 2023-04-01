@@ -1,6 +1,7 @@
 MongoDB : https://www.mongodb.com/docs/
 -------------
 18/03/2023
+-------------
 mongodb-vs-mysql-database-structure:
 mongoDB      VS   MySQL
 Database     ->   Database
@@ -94,7 +95,22 @@ list_of_movies = [
 rec = collection.insert_many(list_of_movies)
 -------------
 
+----------------------------------------------------------------------
+-------------
+26/03/2023
+-------------
+
+powershell:
+dir>jupyter notebook (codes)
+
+MongoDB Compass App (DB,tables,data visualization)
+
+"""doc string"""
+
+MongoDB Atlas (cloud)
 
 
 
 ----------------------------------------------------------------------
+
+
